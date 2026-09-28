@@ -1,0 +1,6 @@
+{
+  "name": "StyleMatch AI",
+  "description": "ระบบผู้ช่วยวิเคราะห์สไตล์ส่วนตัวด้วย AI สำหรับแนะนำการแต่งหน้า ทรงผม และการแต่งตัวจากข้อมูลและรูปภาพของผู้ใช้",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
